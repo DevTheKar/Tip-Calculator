@@ -1,4 +1,4 @@
-# Tip Calculator Second
+# Tip Calculator
 
 print("Welcome to the tip calculator and price divider")
 total = float(input("To Begin, Please provide the total bill: $"))
